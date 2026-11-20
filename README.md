@@ -4,10 +4,10 @@ Construcción e implementación (programación) de las interfaces de usuario par
 
 ## Equipo de trabajo
 
-Dahiana Gonzales P. -- **Jefa de Grupo** 
-Javiera Orellana L.  
-Fernanda Vergara A. 
-Matías Cisterna E.  
+- Dahiana Gonzales P. -- **Jefa de Grupo** 
+- Javiera Orellana L.  
+- Fernanda Vergara A. 
+- Matías Cisterna E.  
 
 ## Tecnologías utilizadas
 
@@ -21,7 +21,7 @@ Matías Cisterna E.
 
 1. Clonar el repositorio:
    ```bash
-   git clone [URL-del-repositorio]
+   git clone https://github.com/cisternna/Luna-Market
    ```
 2. Abrir la carpeta del proyecto.
 3. Abrir el archivo `index.html` en un navegador web.
